@@ -240,15 +240,45 @@
         }
     ],
     "composite_photo": [
-        "https://cdn.tgdd.vn/comment/46381811/Screenshot_2021-06-04-09-00-07-740_com.android.systemui6KFEZ.jpg",
-        "https://cdn.tgdd.vn/comment/46381811/Screenshot_2021-06-04-08-49-31-632_com.android.systemui4DK4B.jpg",
-        "https://cdn.tgdd.vn/comment/46117441/Screenshot_2021-05-13-12-42-25-043_com.miui.homeZ2PDB.jpg",
-        "https://cdn.tgdd.vn/comment/46005972/Screenshot_2021-05-02-19-39-12-167_com.garena.game.kgvn88PG6.jpg",
-        "https://cdn.tgdd.vn/comment/45849594/Screenshot_2021-04-16-22-14-58-197_com.mi.android.globalFileexplorerCPY5W.jpg",
-        "https://cdn.tgdd.vn/comment/45849594/IMG_20210416_2237431HQPV.jpg",
-        "https://cdn.tgdd.vn/comment/45849594/IMG_20210416_2237133XPP1.jpg",
-        "https://cdn.tgdd.vn/comment/45343477/received_477168023441452RAHMW.jpeg",
-        "https://cdn.tgdd.vn/comment/45343477/received_926465288092477CIZUC.jpeg",
-        "https://cdn.tgdd.vn/comment/45212567/Screenshot_2021-02-17-21-18-17-735_com.UCMobile.intlX85O7.jpg"
+        {
+            "id": "1",
+            "img": "https://cdn.tgdd.vn/comment/46381811/Screenshot_2021-06-04-09-00-07-740_com.android.systemui6KFEZ.jpg"
+        },
+        {
+            "id": "2",
+            "img": "https://cdn.tgdd.vn/comment/46381811/Screenshot_2021-06-04-08-49-31-632_com.android.systemui4DK4B.jpg"
+        },
+        {
+            "id": "3",
+            "img": "https://cdn.tgdd.vn/comment/46117441/Screenshot_2021-05-13-12-42-25-043_com.miui.homeZ2PDB.jpg"
+        },
+        {
+            "id": "4",
+            "img": "https://cdn.tgdd.vn/comment/46005972/Screenshot_2021-05-02-19-39-12-167_com.garena.game.kgvn88PG6.jpg"
+        },
+        {
+            "id": "5",
+            "img": "https://cdn.tgdd.vn/comment/45849594/Screenshot_2021-04-16-22-14-58-197_com.mi.android.globalFileexplorerCPY5W.jpg"
+        },
+        {
+            "id": "6",
+            "img": "https://cdn.tgdd.vn/comment/45849594/IMG_20210416_2237431HQPV.jpg"
+        },
+        {
+            "id": "7",
+            "img": "https://cdn.tgdd.vn/comment/45849594/IMG_20210416_2237133XPP1.jpg"
+        },
+        {
+            "id": "8",
+            "img": "https://cdn.tgdd.vn/comment/45343477/received_477168023441452RAHMW.jpeg"
+        },
+        {
+            "id": "9",
+            "img": "https://cdn.tgdd.vn/comment/45343477/received_926465288092477CIZUC.jpeg"
+        },
+        {
+            "id": "10",
+            "img": "https://cdn.tgdd.vn/comment/45212567/Screenshot_2021-02-17-21-18-17-735_com.UCMobile.intlX85O7.jpg"
+        }
     ]
 }
