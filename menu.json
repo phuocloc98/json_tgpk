@@ -1,0 +1,282 @@
+[
+        {
+            "id": "fbfc1fda-45c9-4b41-ac44-9d2317ea8236",
+            "product_name": "Xiaomi Redmi 9T (6GB/128GB)",
+            "product_category": "Xiaomi",
+            "product_price": "4.290.000",
+            "product_img": "123",
+            "specifications": {
+                "screen": "IPS LCD6.53' Full HD+",
+                "operating_system": "Android 10",
+                "rear_camera": "Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP",
+                "front_camera": "8 MP",
+                "chip": "Snapdragon 662",
+                "ram": "128GB",
+                "internal_memory": "128GB",
+                "sim": "2 Nano SIMHỗ trợ 4G",
+                "pin": "6000 mAh18 W"
+            }
+        }
+    ],
+    "accessories": [
+        {
+            "id": "7df50ebd-0a53-4eed-917d-8b01cf5a11d6",
+            "product_name": "Ốp lưng Redmi 9T Nhựa dẻo Carbon Fibre TPU COSANO Navy",
+            "product_price": {
+                "cost": "100.000",
+                "sale": "51.000"
+            },
+            "percent": "49%",
+            "img": "https://cdn.tgdd.vn/Products/Images/60/235315/op-lung-redmi-9t-nhua-deo-carbon-fibre-tpu-cosano-1-600x600.jpg",
+            "badge": ""  
+        },
+        {
+            "id": "7df50ebd-0a53-4eed-917d-8b01cf5a22f5",
+            "product_name": "Pin sạc dự phòng Polymer 10.000mAh Type C Xiaomi Power Bank 3 Ultra Compact Đen",
+            "product_price": {
+                "cost": "790.000",
+                "sale": "640.000"
+            },
+            "percent": "18%",
+            "img": "https://cdn.tgdd.vn/Products/Images/57/233120/polymer-10000mah-xiaomi-ultra-compact-avt-1-600x600.jpg",
+            "badge": "Giảm sốc"  
+        },
+        {
+            "id": "7df50ebd-0a53-4eed-917d-8b01cf5a33e9",
+            "product_name": "Móc dán điện thoại OSMIA RingCK039 Cún Trắng",
+            "product_price": {
+                "cost": "40.000",
+                "sale": "20.000"
+            },
+            "percent": "50%",
+            "img": "https://cdn.tgdd.vn/Products/Images/7924/143454/moc-dan-dien-thoai-osmia-ringck039-cun-trang-1-1-600x600.jpg",
+            "badge": ""  
+        },
+        {
+            "id": "7df50ebd-0a53-4eed-917d-8b01cf5a44t8",
+            "product_name": "Đế điện thoại OSMIA CK-CH1/CK-CH3",
+            "product_price": {
+                "cost": "50.000",
+                "sale": "25.000"
+            },
+            "percent": "50%",
+            "img": "https://cdn.tgdd.vn/Products/Images/6862/218646/de-dien-thoai-osmia-ck-add-600x600.jpg",
+            "badge": ""  
+        },
+        {
+            "id": "7df50ebd-0a53-4eed-917d-8b01cf5a22r5",
+            "product_name": "Tai nghe EP Awei Q60Hi Trắng",
+            "product_price": {
+                "cost": "200.000",
+                "sale": "120.000"
+            },
+            "percent": "50%",
+            "img": "https://cdn.tgdd.vn/Products/Images/54/202541/tai-nghe-ep-awei-q60hi-trang-fix-600x600.jpg",
+            "badge": "Trợ giá mùa dịch"  
+        },
+        {
+            "id": "7df50ebd-0a53-4eed-917d-8b01cf5a11q4",
+            "product_name": "Cáp Type C 2m Belkin CAB002",
+            "product_price": {
+                "cost": "450.000",
+                "sale": "315.000"
+            },
+            "percent": "30%",
+            "img": "https://cdn.tgdd.vn/Products/Images/58/232638/cap-type-c-1m-belkin-cab002-ava-600x600.jpg",
+            "badge": ""  
+        }
+    ],
+    "related_products" : [
+        {
+            "id": "6gh50ebd-0a53-4eed-917d-8b01cf5a11q4",
+            "product_name": "Xiaomi Redmi 9T (6GB/128GB)",
+            "product_price": {
+                "cost": "4.990.000",
+                "sale": "4.290.000"
+            },
+            "percent": "12%",
+            "img": "https://cdn.tgdd.vn/Products/Images/42/233130/xiaomi-redmi-9t-6gb-110621-080650-600x600.jpg",
+            "badge": "Trợ giá mùa dịch"  
+        },
+        {
+            "id": "7qw50ebd-0a53-4eed-917d-8b01cf5a11q4",
+            "product_name": "Xiaomi Redmi Note 9",
+            "product_price": {
+                "cost": "4.990.000",
+                "sale": "3.990.000"
+            },
+            "percent": "20%",
+            "img": "https://cdn.tgdd.vn/Products/Images/42/214925/xiaomi-redmi-note-9-den-600x600-600x600.jpg",
+            "badge": "Trợ giá mùa dịch"  
+        },
+        {
+            "id": "3rm50ebd-0a53-4eed-917d-8b01cf5a11q4",
+            "product_name": "Xiaomi Redmi Note 10 5G 4GB",
+            "product_price": {
+                "cost": "5.290.000",
+                "sale": "4.990.000"
+            },
+            "percent": "5%",
+            "img": "https://cdn.tgdd.vn/Products/Images/42/238306/xiaomi-redmi-note-10-5g-xanh-bong-dem-600x600.jpg",
+            "badge": ""  
+        },
+        {
+            "id": "7hm50ebd-0a53-4eed-917d-8b01cf5a11q4",
+            "product_name": "Xiaomi Redmi Note 10 (6GB/128GB)",
+            "product_price": {
+                "cost": "5.490.000",
+                "sale": "4.890.000"
+            },
+            "percent": "10%",
+            "img": "https://cdn.tgdd.vn/Products/Images/42/222758/xiaomi-redmi-note-10-thumb-green-600x600.jpg",
+            "badge": "Trợ giá mùa dịch"  
+        },
+        {
+            "id": "4yg50ebd-0a53-4eed-917d-8b01cf5a11q4",
+            "product_name": "Realme 6i",
+            "product_price": {
+                "cost": "4.990.000",
+                "sale": "4.690.000"
+            },
+            "percent": "6%",
+            "img": "https://cdn.tgdd.vn/Products/Images/42/218360/realme-6i-trang-new-600x600-600x600.jpg",
+            "badge": ""  
+        },
+        {
+            "id": "78tyg50ebd-0a53-4eed-917d-8b01cf5a11q4",
+            "product_name": "Vivo Y20s",
+            "product_price": {
+                "cost": "4.990.000",
+                "sale": "4.490.000"
+            },
+            "percent": "10%",
+            "img": "https://cdn.tgdd.vn/Products/Images/42/228376/vivo-y20s-xanh-1-600x600.jpg",
+            "badge": ""  
+        }
+    ],
+    "phone_viewed": [
+        {
+            "id": "a68e7883-21fc-4936-8597-d18dcf920427",
+            "product_name": "Xiaomi Mi 11 Lite",
+            "product_price": {
+                "cost": "7.990.000",
+                "sale": "7.590.000"
+            },
+            "percent": "5%",
+            "img": "https://cdn.tgdd.vn/Products/Images/42/233241/xiaomi-mi-11-lite-4g-blue-600x600.jpg",
+            "badge": "Trợ giá mùa dịch"  
+        },
+        {
+            "id": "b75e7883-21fc-4936-8597-d18dcf920427",
+            "product_name": "Samsung Galaxy M51",
+            "product_price": {
+                "cost": "9.490.000",
+                "sale": "8.990.000"
+            },
+            "percent": "5%",
+            "img": "https://cdn.tgdd.vn/Products/Images/42/217536/samsung-galaxy-m51-trang-new-600x600-600x600.jpg",
+            "badge": "Trợ giá mùa dịch"  
+        },
+        {
+            "id": "c92e7883-21fc-4936-8597-d18dcf920427",
+            "product_name": "Samsung Galaxy S21 5G",
+            "product_price": {
+                "cost": "20.990.000",
+                "sale": "17.990.000"
+            },
+            "percent": "14%",
+            "img": "https://cdn.tgdd.vn/Products/Images/42/220833/samsung-galaxy-s21-tim-600x600.jpg",
+            "badge": ""  
+        },
+        {
+            "id": "r11e7883-21fc-4936-8597-d18dcf920427",
+            "product_name": "Samsung Galaxy Z Fold2 5G",
+            "product_price": {
+                "cost": "50.000.000",
+                "sale": "45.000.000"
+            },
+            "percent": "10%",
+            "img": "https://cdn.tgdd.vn/Products/Images/42/226099/samsung-galaxy-z-fold-2-vang-dong-600x600.jpg",
+            "badge": ""
+        },
+        {
+            "id": "r11e7883-21fc-4936-8597-d18dcf920427",
+            "product_name": "Realme C12",
+            "product_price": {
+                "cost": "3.490.000",
+                "sale": "2.373.000"
+            },
+            "percent": "32%",
+            "img": "https://cdn.tgdd.vn/Products/Images/42/226733/realme-c12-do-13-600x600.jpg",
+            "badge": ""
+        },
+        {
+            "id": "td3e7883-21fc-4936-8597-d18dcf920427",
+            "product_name": "iPhone 12 Pro 256GB",
+            "product_price": {
+                "cost": "31.990.000",
+                "sale": "28.490.000"
+            },
+            "percent": "10%",
+            "img": "https://cdn.tgdd.vn/Products/Images/42/228738/iphone-12-pro-xam-new-600x600-600x600.jpg",
+            "badge": "Trợ giá mùa dịch"
+        }
+    ],
+    "reviews": [
+        {
+            "id": "d9c06103-cb06-426b-ad71-17d28760de54",
+            "customer": "Hồ Đức Anh",
+            "content": "Mới mua chưa được 1 tuần. Không hài lòng ở chỗ máy bắt wifi cực kém, dùng nhanh nóng"
+        },
+        {
+            "id": "e5f06103-cb06-426b-ad71-17d28760de54",
+            "customer": "Luân",
+            "content": "Em ms mua đt đc 2 ngày thấy đt nóng pin tụt nhanh cam điện thoại thì ko đẹp Mà em mua đúng lúc đc giảm giá H em muốn đổi đt thì em có mất nhìu tiền ko ạ Nếu em mua đt 4 triệu 990 nghìn đc giảm 700k thì còn 4 triệu 2 bh em muốn đổi thì đổi điện thoại giá như lúc đầu hay là giá mk mua ạ",
+            "img_reviews": [
+                "https://cdn.tgdd.vn/comment/46381811/Screenshot_2021-06-04-08-49-31-632_com.android.systemui4DK4B.jpg",
+                "https://cdn.tgdd.vn/comment/46381811/Screenshot_2021-06-04-09-00-07-740_com.android.systemui6KFEZ.jpg"
+            ]
+        }
+    ],
+    "composite_photo": [
+        {
+            "id": "1",
+            "img": "https://cdn.tgdd.vn/comment/46381811/Screenshot_2021-06-04-09-00-07-740_com.android.systemui6KFEZ.jpg"
+        },
+        {
+            "id": "2",
+            "img": "https://cdn.tgdd.vn/comment/46381811/Screenshot_2021-06-04-08-49-31-632_com.android.systemui4DK4B.jpg"
+        },
+        {
+            "id": "3",
+            "img": "https://cdn.tgdd.vn/comment/46117441/Screenshot_2021-05-13-12-42-25-043_com.miui.homeZ2PDB.jpg"
+        },
+        {
+            "id": "4",
+            "img": "https://cdn.tgdd.vn/comment/46005972/Screenshot_2021-05-02-19-39-12-167_com.garena.game.kgvn88PG6.jpg"
+        },
+        {
+            "id": "5",
+            "img": "https://cdn.tgdd.vn/comment/45849594/Screenshot_2021-04-16-22-14-58-197_com.mi.android.globalFileexplorerCPY5W.jpg"
+        },
+        {
+            "id": "6",
+            "img": "https://cdn.tgdd.vn/comment/45849594/IMG_20210416_2237431HQPV.jpg"
+        },
+        {
+            "id": "7",
+            "img": "https://cdn.tgdd.vn/comment/45849594/IMG_20210416_2237133XPP1.jpg"
+        },
+        {
+            "id": "8",
+            "img": "https://cdn.tgdd.vn/comment/45343477/received_477168023441452RAHMW.jpeg"
+        },
+        {
+            "id": "9",
+            "img": "https://cdn.tgdd.vn/comment/45343477/received_926465288092477CIZUC.jpeg"
+        },
+        {
+            "id": "10",
+            "img": "https://cdn.tgdd.vn/comment/45212567/Screenshot_2021-02-17-21-18-17-735_com.UCMobile.intlX85O7.jpg"
+        }
+]
